@@ -1,0 +1,12 @@
+Git tutorial
+
+# git add
+Add files to commit
+# git status
+Check status of files ( staged / committed / unversioned )
+# git commit -m “<Comment for the committed files>”
+Commit with a comment
+# git remote add origin <remote repository link>
+Github online link to repository, copied from the repository created on github
+# git -u origin master
+Prompted username and password of github
