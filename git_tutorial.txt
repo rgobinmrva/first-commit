@@ -1,5 +1,3 @@
-Git tutorial
-
 # git add
 Add files to commit
 # git status
